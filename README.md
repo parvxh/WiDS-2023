@@ -1,13 +1,14 @@
 # WiDS-2023
 
-Welcome to Winter in Data Science Program! We are going to delve in the fascinating world of Machine learning and learn how to create neural networks and train models using datasets from scratch and finally we will create a Convolutional Neural Network (CNN) from scratch to identify brain tumor.
-This README will guide you through the resources and materials provided in this repository to ensure a smooth and effective learning experience.
+Welcome to Winter in Data Science Program! We are going to delve in the fascinating world of Machine learning and learn how to create neural networks and train models using datasets from scratch and finally we will create a Convolutional Neural Network (CNN) from scratch to detect brain tumor.  
+This README will guide you through the resources and materials provided in this repository to ensure a smooth and effective learning experience.  
 
 ## Table of Contents
 
-1. In the first week, we'll be diving into the fundamentals of Python and essential data science libraries such as NumPy, Matplotlib, and Pandas.
-
-
+1. [Week-1](/Week-1/)   
+    We'll be diving into the fundamentals of Python and essential data science libraries such as NumPy, Matplotlib, and Pandas.
+4. [Final Project](/Final_Project/)  
+    Creating A CNN model to detect brain tumor from grayscale MRI images
 ## Getting Started
 
 Before diving into the content, make sure you have the following prerequisites installed on your machine:
@@ -19,5 +20,5 @@ Before diving into the content, make sure you have the following prerequisites i
 Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/your-username/WiDS-Winter-Week1.git
+git clone https://github.com/Dhvanil-CSE/WiDS-2023/Week1.git
 ```
