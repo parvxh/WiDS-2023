@@ -7,9 +7,4 @@ This repository contains Python notebook and the dataset for building a Convolut
 3. Model Training: Demonstrates the training process using the prepared dataset.   
 4. Model Evaluation: Evaluates the trained model on test data and provides insights into its performance.  
 
-Clone this repository to your local machine using the following command:
-
-```
-git clone https://github.com/Dhvanil-CSE/WiDS-2023/Final_Project.git
-```
 

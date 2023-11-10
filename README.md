@@ -8,7 +8,7 @@ This README will guide you through the resources and materials provided in this 
 1. [Week-1](/Week-1/)   
     We'll be diving into the fundamentals of Python and essential data science libraries such as NumPy, Matplotlib, and Pandas.
 4. [Final Project](/Final_Project/)  
-    Creating A CNN model to detect brain tumor from grayscale MRI images
+    Creating a CNN model to detect brain tumor from grayscale MRI images
 ## Getting Started
 
 Before diving into the content, make sure you have the following prerequisites installed on your machine:
@@ -20,5 +20,5 @@ Before diving into the content, make sure you have the following prerequisites i
 Clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/Dhvanil-CSE/WiDS-2023/Week1.git
+git clone https://github.com/Dhvanil-CSE/WiDS-2023.git
 ```
